@@ -9,6 +9,9 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/**
+ * 测试Main
+ */
 public class Main {
     public static void main(String[] args) {
         User1 user1 = new User1("张三","123456","男","432221853704110011");
